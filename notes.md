@@ -233,3 +233,6 @@ let obj = {
 let {name, age, greet: hello} = obj;
 hello();
 ```
+
+### Modules & Classes
+

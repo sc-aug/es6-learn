@@ -247,4 +247,13 @@ hello();
 
 * [Reflect](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect)
 * In `Reflect`, `receiver` is used to refer the `object` of `this`.
+* Prototype
+* Getter & Setter
+* Properties: add, delete, extend, protect-extend
 
+### Proxy
+* Trap
+  - If you have some code where you don't know at the time when you write it, which properties you might try to access at runtime. The Proxy API and Traps can make sure that you get a default value, in case you access the properties which doesn't exist.
+* Reflect has the same API as Proxy
+* Proxy as prototype
+* Revocable proxy

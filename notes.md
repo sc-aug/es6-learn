@@ -236,3 +236,15 @@ hello();
 
 ### Modules & Classes
 
+
+### Promises
+
+
+### Map,WeakMap & Set, WeakSet
+
+
+### Reflect
+
+* [Reflect](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect)
+* In `Reflect`, `receiver` is used to refer the `object` of `this`.
+
